@@ -3,7 +3,7 @@
 ## Introduction
 
 **Hybrid images** are static images that change in interpretation as a function of the viewing distance. The basic idea is that high frequency tends to dominate perception when it is available, but, at a distance, only the low frequency (smooth) part of the signal can be seen. By blending the high frequency portion of one image with the low-frequency portion of another, you get a hybrid image that leads to different interpretations at different distances.
-
+Click [here](http://www.cs.cornell.edu/courses/cs5670/2018sp/projects/pa1/index.html) to view projects introduction. 
 ## Features
 
 * Write an image filtering function and use it to create **hybrid images**
