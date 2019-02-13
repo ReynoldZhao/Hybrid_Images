@@ -42,10 +42,10 @@ cd python gui.py
 
 ### Images before hybriding
 
-![](C:\Users\57844\Desktop\CV作业\实验原文件\实验1\Exp1_Hybrid_Images\resources\cat.jpg)
+![cat](https://github.com/ReynoldZhao/Project1_Hybrid_Images/raw/master/resources/cat.jpg)
 
-![](C:\Users\57844\Desktop\CV作业\实验原文件\实验1\Exp1_Hybrid_Images\resources\dog.jpg)
+![dog](https://github.com/ReynoldZhao/Project1_Hybrid_Images/raw/master/resources/dog.jpg)
 
 ### Hybrid images
 
-![](C:\Users\57844\Desktop\CV作业\实验原文件\实验1\Exp1_Hybrid_Images\resources\hybrid.png)
+![hybrid](https://github.com/ReynoldZhao/Project1_Hybrid_Images/raw/master/resources/hybrid.png)
